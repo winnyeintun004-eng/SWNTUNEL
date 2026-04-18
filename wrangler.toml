@@ -8,6 +8,4 @@ main = "src/worker-vless.js"
 compatibility_date = "2024-04-15"
 
 [vars]
-# UUID = "example_dev_token"
-# wrangler.toml
-name = 'swntunnel'
+# UUID = "a3c1930b-56a7-4f28-ae06-edc7051bbd02"
